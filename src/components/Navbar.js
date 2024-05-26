@@ -14,8 +14,6 @@ const Navbar = () => {
             <div className="navbar">
                 <div className='toogle-div' >
                     <img className='left' id='logo' src={logo} />
-
-
                     <button className='toogle' onClick={display}>x</button>
                 </div>
                 <div className='nav'>

@@ -406,9 +406,8 @@ textarea {
     
     .toogle-div{
         display: flex;
-        gap: 40vh;
+        gap: 20vh;
         flex-direction: row;
-        justify-content: space-between;
     }
 
     .toogle{
@@ -420,7 +419,7 @@ textarea {
         border: 1px solid;
         transition: all 0.3s ease;
         background-color: #eff7ff;
-        margin-left: 2vh;
+        margin-left: 22vh;
     }
 
     .nav{
@@ -431,6 +430,7 @@ textarea {
         display: flex;
         flex-direction: column;
         margin-left: 4vh;
+        text-align: center;
         justify-content: center;
     }
 }
